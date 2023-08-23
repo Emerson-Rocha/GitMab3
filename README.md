@@ -17,3 +17,5 @@ Felipe.
 Luan S.
 Luan G.
 
+Alunos estão desenvolvendo projetos Praticos.
+
